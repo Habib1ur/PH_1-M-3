@@ -1,0 +1,44 @@
+body{
+    background-color: seagreen;
+}
+.all{
+    height: 250px;
+    padding: 5px;
+    border-radius: 30px;
+    background-origin: padding-box;
+    background-color: aquamarine;
+}
+h3{
+    color: rgb(9, 135, 219);
+    font-size: 30px;
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 800;
+    font-style: italic;
+}
+p{
+    font-family: "Playwrite AU VIC Guides", serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+.gt1{
+    color: rgba(242, 255, 2, 0.768);
+    font-size: 32px;
+    text-decoration: dashed;
+    text-decoration-thickness: 9px;
+    text-decoration-line: underline;
+    text-decoration-color: darkgray;
+}
+.gt2{
+    font-size: 20px;
+    color: rgba(163, 98, 19, 0.597);
+    font-family: "Rubik Pixels", serif;
+    font-weight: 600;
+}
+.ph1{
+    background-color: rgba(44, 86, 165, 0.753);
+    border-radius: 30px;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    margin: 0px;
+}
