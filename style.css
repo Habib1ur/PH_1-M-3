@@ -43,7 +43,7 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-.ad,.pg{
+.ad{
     color: brown;
     background-color: rgba(12, 12, 201, 0.899);
     /* color: cadetblue; */
@@ -51,8 +51,6 @@ p{
     padding: 20px;
     font-size: 30px;
     font-style: normal;
-    font-family: sans-serif;
-    
 }
 .l1{
     text-decoration:double;
