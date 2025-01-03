@@ -40,5 +40,21 @@ p{
     display: inline-block;
     padding: 20px;
     height: 200px;
-    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ad,.pg{
+    color: brown;
+    background-color: rgba(12, 12, 201, 0.899);
+    /* color: cadetblue; */
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 30px;
+    font-style: normal;
+    font-family: sans-serif;
+    
+}
+.l1{
+    text-decoration:double;
+    list-style:lower-roman;
 }
